@@ -1,0 +1,49 @@
+
+.imagens{
+    width: 100%;
+    height: 100%;
+}
+.todoocarrosel{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    background-color: #430f02;
+}
+.rodape{
+    width: 100%;
+    height: 100%;
+    background-color: #430f02;
+    color: #ffff;
+    text-align: center;
+}
+.rodape a{
+    text-decoration: none;
+    color: #ffff;
+}
+.h5branco{
+    color: #ffff;
+    }
+
+.imglogo{
+   max-width: 3rem;
+}
+.form{
+    padding: 10rem;
+}
+.cardie{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 2rem;
+    background-color: #430f02;
+}
+.cardtext{
+    padding: 2rem;
+}
+.enviado{
+    text-decoration: none;
+    color: black;
+}
